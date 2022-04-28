@@ -1,0 +1,20 @@
+{
+  "short_name": "React App By Dinesh ",
+  "name": "Simple React App",
+  "icons": [
+    {
+      "src": "Screenshot (6).png",
+      "sizes": "199x180",
+      "type": "image/png"
+    },
+    {
+      "src": "square.png",
+      "sizes": "723x723",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
