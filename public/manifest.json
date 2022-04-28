@@ -1,10 +1,15 @@
 {
   "short_name": "React App By Dinesh ",
-  "name": "",
+  "name": "MAD LAB PRACTICAL",
   "icons": [
     {
       "src": "square.png",
       "sizes": "723x723",
+      "type": "image/png"
+    },
+    {
+      "src": "Screenshot (6).png",
+      "sizes": "199x180",
       "type": "image/png"
     }
   ],
@@ -12,4 +17,5 @@
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
+  
 }
