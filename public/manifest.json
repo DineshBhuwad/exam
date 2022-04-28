@@ -1,12 +1,7 @@
 {
   "short_name": "React App By Dinesh ",
-  "name": "Simple React App",
+  "name": "",
   "icons": [
-    {
-      "src": "Screenshot (6).png",
-      "sizes": "199x180",
-      "type": "image/png"
-    },
     {
       "src": "square.png",
       "sizes": "723x723",
